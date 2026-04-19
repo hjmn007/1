@@ -1,0 +1,29 @@
+manifestVersion: 1
+id: retro-mike-ravencoin
+name: ravencoin
+tagline: Monero Node. This is a general node app for Monero and can be used to in conjunction with mining pool software to solo mine, or just be ran standalone to help contribute to the eCash network.
+icon: https://cryptologos.cc/logos/monero-xmr-logo.png
+category: Mining Nodes
+version: "1.0.3"
+port: 2424
+description: |
+  Monero Node. This is a general node app for Monero and can be used to in conjunction with mining pool software to solo mine, or just be ran standalone to help contribute to the Monero network.
+
+  If you find this app useful, please consider donating
+
+  https://throne.com/retromike
+
+developer: Retro Mike
+website: http://retromiketech.com
+submitter: Retro Mike
+submission: https://github.com/TheRetroMike/Ravencoin
+repo: https://github.com/TheRetroMike/Ravencoin
+support: https://github.com/TheRetroMike/Ravencoin
+gallery:
+  - https://cryptologos.cc/logos/ravencoin-rvn-logo.png
+releaseNotes: |
+  2026.01.15 - Initial Release
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
